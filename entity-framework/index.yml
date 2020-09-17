@@ -109,7 +109,7 @@ additionalContent:
       - url: core/modeling/entity-properties.md
         text: Entitätseigenschaften
       - url: core/modeling/keys.md
-        text: Tasten
+        text: Schlüssel
       - url: core/modeling/generated-properties.md
         text: Generierte Werte
       - url: core/modeling/relationships.md
@@ -155,7 +155,7 @@ additionalContent:
       - url: core/managing-schemas/migrations/history-table.md
         text: 'Migration: benutzerdefinierte Verlaufstabelle'
       - url: core/managing-schemas/ensure-created.md
-        text: Erstellen und Löschen von APIs
+        text: Erstellen und Löschen-APIs
       - url: core/managing-schemas/scaffolding.md
         text: Reverse Engineering (Gerüstbau)
     - title: Speichern von Daten
